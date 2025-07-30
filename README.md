@@ -13,6 +13,6 @@ HTML • CSS • JavaScript • React • Git • Figma • Photoshop
 ---
 
 ### 🌟 Notable Contributions:
-- ✅ [First Contributions – Added my name to the Contributors list](https://github.com/firstcontributions/first-contributions/pull/YOUR_PR_ID)
+- ✅ [First Contributions – Added my name to the Contributors list](https://github.com/firstcontributions/first-contributions/pull/101230)
 
 ---
