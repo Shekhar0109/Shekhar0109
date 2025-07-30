@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there! I'm Shashank Shekhar
 
-<!--
-**Shekhar0109/Shekhar0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Frontend Developer | 💻 Open-Source Contributor | 🎯 UI/UX Designer
 
-Here are some ideas to get you started:
+- 🚀 I recently made my first open-source contribution to [First Contributions](https://github.com/firstcontributions/first-contributions)!
+- 🌱 Currently learning advanced React and contributing to open-source
+- 💡 Passionate about clean UI, performance, and accessible web
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack:
+HTML • CSS • JavaScript • React • Git • Figma • Photoshop
+
+---
+
+### 🌟 Notable Contributions:
+- ✅ [First Contributions – Added my name to the Contributors list](https://github.com/firstcontributions/first-contributions/pull/YOUR_PR_ID)
+
+---
