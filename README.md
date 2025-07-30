@@ -42,7 +42,7 @@ I love building accessible, responsive, and elegant user interfaces. I'm passion
 ---
 
 ### 📫 Let’s Connect!
-- [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/shashank-shekhar-b955a5347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))   
+- [LinkedIn](https://www.linkedin.com/in/shashank-shekhar-b955a5347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   
 - [Email](mailto:shekharshashankara@email.com)
 
 ---
