@@ -26,10 +26,6 @@ I love building accessible, responsive, and elegant user interfaces. I'm passion
 ---
 
 ### 🌟 Open Source Contributions  
-
-[![Shashank's GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Shekhar0109&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/pulls?q=is%3Apr+author%3AShekhar0109)
-
-💡 Notable External Contributions:  
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3AShekhar0109)  
 - [first-contributions](https://github.com/firstcontributions/first-contributions/pulls?q=is%3Apr+author%3AShekhar0109)  
 - [rtCamp](https://github.com/rtlearn/github-timeline-Shekhar0109/pulls)  
