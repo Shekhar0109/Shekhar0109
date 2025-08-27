@@ -25,11 +25,14 @@ I love building accessible, responsive, and elegant user interfaces. I'm passion
 
 ---
 
-### 🌟 Notable Open Source Contributions
+### 🌟 Open Source Contributions  
 
-- ✅ [First Contributions – Added my name to the Contributors list](https://github.com/firstcontributions/first-contributions/pull/101230)
+[![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=Shekhar0109&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/pulls?q=is%3Apr+author%3AShekhar0109)  
 
-- ✅ [rtCamp – GitHub Timeline + Email Verification System](https://github.com/rtlearn/github-timeline-Shekhar0109/pull/1)
+📂 Explore more:  
+- [🔓 Open PRs](https://github.com/pulls)  
+- [✅ Closed PRs](https://github.com/pulls?q=is%3Apr+author%3AShekhar0109+archived%3Afalse+is%3Aclosed)  
+
 
 ---
 
