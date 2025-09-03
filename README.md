@@ -37,10 +37,11 @@ I love building accessible, responsive, and elegant user interfaces. I'm passion
 
 
 ---
-### 📈 My GitHub Stats
+
+### 🚀 My GitHub Stats
 
 <div align="center">
-  [![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shekhar0109&show_icons=true&theme=default&count_private=true)](https://github.com/Shekhar0109)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shekhar0109&theme=dark)](https://git.io/streak-stats)
 </div>
 
 ---
