@@ -37,9 +37,8 @@ I love building accessible, responsive, and elegant user interfaces. I'm passion
 
 ---
 
-<div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Shekhar0109&theme=radical&row=1&column=5)](https://github.com/Shekhar0109)
-</div>
+[![Shekhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shekhar0109&show_icons=true&theme=radical&count_private=true&hide_title=false)](https://github.com/Shekhar0109)
+
 
 ---
 
