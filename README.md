@@ -35,16 +35,11 @@ I love building accessible, responsive, and elegant user interfaces. I'm passion
 - [🔓 Open Pull Requests](https://github.com/pulls?q=is%3Apr+author%3AShekhar0109+is%3Aopen)  
 - [✅ Closed Pull Requests](https://github.com/pulls?q=is%3Apr+author%3AShekhar0109+archived%3Afalse+is%3Aclosed)
 
-
 ---
-
-### 🚀 My GitHub Stats
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shekhar0109&theme=dark)](https://git.io/streak-stats)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Shekhar0109&theme=radical&row=1&column=5)](https://github.com/Shekhar0109)
 </div>
-
----
 
 ---
 
