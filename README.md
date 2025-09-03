@@ -37,7 +37,7 @@ I love building accessible, responsive, and elegant user interfaces. I'm passion
 
 ---
 
-[![Shekhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shekhar0109&show_icons=true&theme=radical&count_private=true)](https://github.com/Shekhar0109)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shekhar0109&show_icons=true&theme=dark&count_private=true)](https://github.com/Shekhar0109)
 
 ---
 
