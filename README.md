@@ -29,7 +29,10 @@ I love building accessible, responsive, and elegant user interfaces. I'm passion
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3AShekhar0109)  
 - [first-contributions](https://github.com/firstcontributions/first-contributions/pulls?q=is%3Apr+author%3AShekhar0109)  
 - [rtCamp](https://github.com/rtlearn/github-timeline-Shekhar0109/pulls)
-- [WordPress Gutenberg](https://github.com/WordPress/gutenberg/pull/71426) 
+- [WordPress Gutenberg](https://github.com/WordPress/gutenberg/pull/71426)
+  
+[![Sponsor me](https://img.shields.io/badge/Sponsor%20Me-ff69b4?style=flat-square&logo=github)](https://github.com/sponsors/Shekhar0109)
+
 
 📂 Explore More Contributions:  
 - [🔓 Open Pull Requests](https://github.com/pulls?q=is%3Apr+author%3AShekhar0109+is%3Aopen)  
