@@ -1,4 +1,5 @@
-# 👋 Hi there! I'm Shashank Shekhar
+# 👋 Hi there! I'm Shashank Shekhar [![Sponsor me](https://img.shields.io/badge/Sponsor%20Me-ff69b4?style=flat-square&logo=github)](https://github.com/sponsors/Shekhar0109)
+
 
 🎨 Frontend Developer | 💻 Open-Source Contributor | 🎯 UI/UX Designer  
 I love building accessible, responsive, and elegant user interfaces. I'm passionate about open-source and learning in public!
