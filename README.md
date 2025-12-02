@@ -42,7 +42,7 @@ I love building accessible, responsive, and elegant user interfaces. I'm passion
 
 ### 🚀 Top Languages
 
-[![Yearly Activity](https://github-readme-activity-graph.vercel.app/graph?username=Shekhar0109&theme=radical&hide_border=true&area=true)](https://github.com/Shekhar0109)
+[![Yearly Activity](https://github-readme-activity-graph.vercel.app/graph?username=Shekhar0109&theme=radical&hide_border=true&area=false)](https://github.com/Shekhar0109)
 
 
 ---
