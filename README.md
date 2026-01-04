@@ -29,8 +29,7 @@ Frontend Developer, 🎨 UI/UX Designer, WordPress Core Contributor, and Freelan
 ---
 
 ### 🌟 Open Source Contributions  
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3AShekhar0109)  
-- [first-contributions](https://github.com/firstcontributions/first-contributions/pulls?q=is%3Apr+author%3AShekhar0109)  
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3AShekhar0109) 
 - [rtCamp](https://github.com/rtlearn/github-timeline-Shekhar0109/pulls)
 - [WordPress Gutenberg](https://github.com/WordPress/gutenberg/pull/71426)
   
