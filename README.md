@@ -63,6 +63,16 @@ Frontend Developer, 🎨 UI/UX Designer, WordPress Core Contributor, and Freelan
 
 ---
 
+
+## 🏆 Achievements
+
+✅ **WordPress 6.9 General Contributor**  
+Proud to have my name listed in the official **WordPress 6.9 Contributors** list as a **General Contributor**.  
+
+
+---
+
+
 ### 📫 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/shashank-shekhar-b955a5347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   
 - [Email](mailto:shekharshashankara@email.com)
