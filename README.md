@@ -68,6 +68,7 @@ Frontend Developer, 🎨 UI/UX Designer, WordPress Core Contributor, and Freelan
 
 ✅ **WordPress 6.9 General Contributor**  
 Proud to have my name listed in the official **WordPress 6.9 Contributors** list as a **General Contributor**.  
+<img width="1250" height="326" alt="image" src="https://github.com/user-attachments/assets/f2f61dd4-5e6a-4d03-96ed-bdaf06e6e0ac" />
 
 
 ---
